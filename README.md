@@ -1,3 +1,19 @@
+<!-- VWEB:AUTO-README:START -->
+<div align="center"><img src="assets/vweb-readme-banner.svg" width="100%" alt="Interface-Front project graphic" /></div>
+
+### Code-derived project snapshot
+
+| Attribute | Detected value |
+|---|---|
+| Latest source revision | `3747a87e5966` |
+| Tracked files reviewed | 217 |
+| Framework and platform indicators | React  /  Vite |
+| Source file types | JavaScript (167), JSON (2), CSS (2), HTML (1) |
+| Main directories | src, public |
+
+> This section is regenerated from tracked filenames and manifests on code updates. It is not a QA or production-readiness certification. Handwritten project documentation is preserved.
+<!-- VWEB:AUTO-README:END -->
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
